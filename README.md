@@ -1,3 +1,7 @@
+If using these codes, please cite us as: 
+Rana Prafful, Amit Kumar, Rishi Raj Sharma, Abhijit Bhattacharyya, and Ram Bilas Pachori, “Multi-view EEG schizophrenia detection using novel scattering-based patch encoding and a deep attention mechanism,” Applied Soft Computing, vol. 204, Art. no. 116531, 2027.
+DOI: https://doi.org/10.1016/j.asoc.2026.116531
+
 As the proposed framework utilizes the Fourier Decomposition Method (FDM), the corresponding FDM implementation was adopted from the original source code. Please cite the original FDM work if this code or repository is used in your research. : "P. Singh, S. D. Joshi, R. K. Patney, K. Saha, The Fourier Decomposition Method for Nonlinear and Non-Stationary Time Series Analysis, Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences 473 (2202) (2017) 20160871. doi:10.1098/rspa. 2016.0871. URL http://dx.doi.org/10.1098/rspa.2016.0871"
 
 Find the main.py file and execute it after modifying the parameter values according to your experimental requirements.
